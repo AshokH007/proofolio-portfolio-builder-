@@ -2,6 +2,7 @@
   "name": "new-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://red-violet-1a66.gvtashokhiremath.workers.dev/",
   "type": "module",
   "scripts": {
     "dev": "vite",

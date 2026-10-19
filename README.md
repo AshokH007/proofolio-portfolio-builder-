@@ -1,6 +1,16 @@
 # Prooffolio 💼✨
 > **Freemium Portfolio Builder & Professional Resume Studio for Developers & Creatives**  
-> Built with strict **₹0 additional budget** &bull; Zero Server Lock-in &bull; Standalone Static Export &bull; Vector A4 PDF Generation &bull; Cloudflare Pages Ready.
+> Built with strict **₹0 additional budget** &bull; Zero Server Lock-in &bull; Standalone Static Export &bull; Vector A4 PDF Generation &bull; Cloudflare Ready.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available%20Now-success?style=for-the-badge&logo=cloudflare&logoColor=white)](https://red-violet-1a66.gvtashokhiremath.workers.dev/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshokH007/proofolio-portfolio-builder-)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+
+---
+
+### 🌐 Live Application Demo
+🚀 **Access the live deployed application:**  
+👉 **[https://red-violet-1a66.gvtashokhiremath.workers.dev/](https://red-violet-1a66.gvtashokhiremath.workers.dev/)**
 
 ---
 
@@ -110,7 +120,11 @@ The compiled, optimized production files are output to the `dist/` directory.
 
 ---
 
-## 🌐 Deploying to Cloudflare Pages (₹0 Free Plan)
+## 🌐 Cloudflare Deployment (₹0 Free Plan)
+
+### 🔗 Active Live Deployment
+- **Live Production URL**: [https://red-violet-1a66.gvtashokhiremath.workers.dev/](https://red-violet-1a66.gvtashokhiremath.workers.dev/)
+- **Hosting Tier**: Cloudflare Free Tier (Zero server cost, global edge CDN, automated SSL)
 
 You can host both the **Prooffolio application itself** and **any individual exported portfolio** on Cloudflare Pages with **zero hosting cost** and free global SSL.
 
